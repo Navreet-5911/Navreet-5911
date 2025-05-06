@@ -2,10 +2,6 @@
 
 ### 💻 Coding a world of Possibilities!
 
-I’m a passionate developer and lifelong learner, currently diving deep into the world of intelligent systems.
-![Chill Duck](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
----
-
 ### 🚀 Goals I'm Currently Chasing:
 - 🐍 Mastering *Python* for real-world applications  
 - 🧠 Exploring *Machine Learning & AI*  
